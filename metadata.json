@@ -1,0 +1,8 @@
+{
+  "name": "Tersh B Kgaphola Portfolio",
+  "description": "A professional portfolio for Tersh B Kgaphola, an AI Specialist and Software Engineer focusing on Systems Automation, Data Analytics, and AI Safety.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
